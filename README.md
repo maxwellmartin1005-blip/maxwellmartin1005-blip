@@ -1,13 +1,6 @@
 ## Hi there 👋
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxwellmartin1005-blip/maxwellmartin1005-blip/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxwellmartin1005-blip/maxwellmartin1005-blip/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maxwellmartin1005-blip/maxwellmartin1005-blip/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 
 <h1 align="center">Hello there 👋, I'm Max Martin</h1>
