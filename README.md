@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
-
-
 <h1 align="center">Hello there 👋, I'm Max Martin</h1>
 <h3 align="center">A passionate software developer from Colorado</h3>
 
